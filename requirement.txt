@@ -2,14 +2,6 @@ pandas
 Numpy
 Matplotlib
 Seaborn
-
 sklearn
-
 nltk
  
-(punkt
-Stopwords-->(i,he,and etc)
-porterStemmer-->(loving-> Love, learnd->learn))
-
-String
-punctuation(!"#$%&\--etc)
